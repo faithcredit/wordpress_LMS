@@ -1,0 +1,684 @@
+# Copyright (C) 2023 Darren Cooney
+# This file is distributed under the GPL.
+msgid ""
+msgstr ""
+"Project-Id-Version: Instant Images 6.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/instant-images\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-21T03:06:57+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: instant-images\n"
+
+#. Plugin Name of the plugin
+#: admin/admin.php:152
+#: admin/admin.php:169
+#: instant-images.php:300
+msgid "Instant Images"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://connekthq.com/plugins/instant-images/"
+msgstr ""
+
+#. Description of the plugin
+msgid "One click image uploads directly to your media library from Unsplash, Openverse, Pixabay and Pexels."
+msgstr ""
+
+#. Author of the plugin
+msgid "Darren Cooney"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://connekthq.com"
+msgstr ""
+
+#: admin/admin.php:281
+msgid "Enter License Key"
+msgstr ""
+
+#: admin/admin.php:290
+msgid "Valid License Key Required"
+msgstr ""
+
+#: admin/admin.php:290
+msgid "Purchase License"
+msgstr ""
+
+#: admin/admin.php:296
+msgid "Deactivate License"
+msgstr ""
+
+#: admin/admin.php:298
+msgid "Activate License"
+msgstr ""
+
+#: admin/admin.php:312
+msgid "You do not have any Instant Images add-ons installed."
+msgstr ""
+
+#: admin/admin.php:313
+msgid "Browse Add-ons"
+msgstr ""
+
+#: admin/includes/header.php:18
+#: instant-images.php:494
+msgid "Settings"
+msgstr ""
+
+#: admin/includes/settings.php:30
+#: admin/includes/settings/general-settings.php:12
+msgid "General Settings"
+msgstr ""
+
+#: admin/includes/settings.php:38
+msgid "Upload Image Width"
+msgstr ""
+
+#: admin/includes/settings.php:47
+msgid "Upload Image Height"
+msgstr ""
+
+#: admin/includes/settings.php:56
+msgid "Default Image Provider"
+msgstr ""
+
+#: admin/includes/settings.php:65
+msgid "Auto Captions/Attribution"
+msgstr ""
+
+#: admin/includes/settings.php:74
+msgid "Media Tab"
+msgstr ""
+
+#: admin/includes/settings.php:93
+msgid "API Keys"
+msgstr ""
+
+#: admin/includes/settings.php:110
+#: admin/includes/settings.php:326
+msgid "API Key"
+msgstr ""
+
+#: admin/includes/settings.php:142
+msgid "Manage your media upload settings."
+msgstr ""
+
+#: admin/includes/settings.php:152
+msgid "Manage your provider API keys."
+msgstr ""
+
+#: admin/includes/settings.php:193
+msgid "Max Image Upload Width"
+msgstr ""
+
+#: admin/includes/settings.php:209
+msgid "Max Image Upload Height"
+msgstr ""
+
+#: admin/includes/settings.php:221
+msgid "Image Attribution"
+msgstr ""
+
+#: admin/includes/settings.php:222
+msgid "Automatically add image attribution (as captions) when uploading images."
+msgstr ""
+
+#: admin/includes/settings.php:235
+msgid "Media Modal"
+msgstr ""
+
+#: admin/includes/settings.php:236
+msgid "Remove the Instant Images tab in the Media Modal."
+msgstr ""
+
+#: admin/includes/settings.php:282
+msgid "Default Provider"
+msgstr ""
+
+#: admin/includes/settings.php:327
+msgid "Get Key"
+msgstr ""
+
+#: admin/includes/settings.php:332
+msgid "API key has been set via site constant."
+msgstr ""
+
+#: admin/includes/settings/api-settings.php:12
+msgid "API Keys (Providers)"
+msgstr ""
+
+#: admin/includes/settings/api-settings.php:13
+msgid "Replace the default Instant Images API keys with your own."
+msgstr ""
+
+#: admin/includes/settings/api-settings.php:14
+msgid "Leave these fields empty to restore the default plugin keys."
+msgstr ""
+
+#: admin/includes/settings/general-settings.php:13
+msgid "Manage your Instant Images plugin settings."
+msgstr ""
+
+#: admin/includes/settings/header.php:18
+#: instant-images.php:494
+msgid "Get Images"
+msgstr ""
+
+#: admin/includes/settings/header.php:23
+msgid "Jump to Section"
+msgstr ""
+
+#: admin/includes/settings/header.php:25
+msgid "Plugin Version:"
+msgstr ""
+
+#: admin/includes/settings/licenses.php:12
+msgid "Licenses"
+msgstr ""
+
+#: admin/includes/settings/licenses.php:13
+msgid "Enter add-on license keys to enable plugin functionality and dashboard updates."
+msgstr ""
+
+#: admin/includes/settings/our-plugins.php:13
+msgid "Our Plugins"
+msgstr ""
+
+#: admin/includes/settings/our-plugins.php:14
+msgid "Check out some of our other WordPress plugins."
+msgstr ""
+
+#: admin/includes/settings/save.php:10
+msgid "Save Settings"
+msgstr ""
+
+#: admin/includes/settings/save.php:14
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/includes/settings/whats-new.php:12
+msgid "What's New"
+msgstr ""
+
+#: admin/includes/settings/whats-new.php:13
+msgid "The latest Instant Images news, features and updates."
+msgstr ""
+
+#: api/download.php:42
+msgid "You do not have sufficient access to upload images with Instant Images."
+msgstr ""
+
+#. translators: File extension.
+#: api/download.php:100
+msgid "File mime type (.%1$s) is not allowed. Use the `upload_mimes` WP hook to add support for this mime type."
+msgstr ""
+
+#: api/download.php:107
+msgid "Image file does not exist on remote server or there was an error accessing the file."
+msgstr ""
+
+#: api/download.php:125
+msgid "Image download failed, please try again. Errors:"
+msgstr ""
+
+#: api/download.php:131
+msgid "Image type could not be determined."
+msgstr ""
+
+#: api/download.php:147
+msgid "Attachment file not found prior to upload."
+msgstr ""
+
+#: api/download.php:189
+msgid "Image successfully uploaded to the media library!"
+msgstr ""
+
+#: api/download.php:206
+msgid "There was an error getting image details from the request, please try again."
+msgstr ""
+
+#: api/settings.php:57
+msgid "Settings saved."
+msgstr ""
+
+#: api/settings.php:63
+msgid "Unable to save settings."
+msgstr ""
+
+#: instant-images.php:316
+msgid "Access to images from Unsplash requires a valid API key. API keys are available for free, just sign up for a Developer account at Unsplash, enter your API key below and you're good to go!"
+msgstr ""
+
+#: instant-images.php:321
+msgid "Access to images from Pixabay requires a valid API key. API keys are available for free, just sign up for an account at Pixabay, enter your API key below and you're good to go!"
+msgstr ""
+
+#: instant-images.php:326
+msgid "Access to images from Pexels requires a valid API key. API keys are available for free, just sign up for an account at Pexels, enter your API key below and you're good to go!"
+msgstr ""
+
+#: instant-images.php:328
+msgid "There was no response while attempting to the download image to your server. Check your server permission and max file upload size or try again"
+msgstr ""
+
+#: instant-images.php:329
+msgid "There was an error accessing the WP REST API."
+msgstr ""
+
+#: instant-images.php:330
+msgid "Instant Images requires access to the WP REST API via <u>POST</u> request to fetch and upload images to your media library."
+msgstr ""
+
+#: instant-images.php:331
+msgid "Photo by"
+msgstr ""
+
+#: instant-images.php:332
+msgid "View All Photos by"
+msgstr ""
+
+#: instant-images.php:333
+msgid "on"
+msgstr ""
+
+#: instant-images.php:334
+msgid "Click Image to Upload"
+msgstr ""
+
+#: instant-images.php:335
+msgid "Click to Upload"
+msgstr ""
+
+#: instant-images.php:336
+msgid "View Full Size"
+msgstr ""
+
+#: instant-images.php:337
+msgid "Like"
+msgstr ""
+
+#: instant-images.php:338
+msgid "Likes"
+msgstr ""
+
+#: instant-images.php:339
+msgid "Downloading image..."
+msgstr ""
+
+#: instant-images.php:340
+msgid "Creating image sizes..."
+msgstr ""
+
+#: instant-images.php:341
+msgid "Still resizing..."
+msgstr ""
+
+#: instant-images.php:342
+msgid "Nothing matched your search query."
+msgstr ""
+
+#: instant-images.php:343
+msgid "Try adjusting your filter criteria or searching again."
+msgstr ""
+
+#: instant-images.php:344
+#: instant-images.php:345
+msgid "New"
+msgstr ""
+
+#: instant-images.php:346
+msgid "Oldest"
+msgstr ""
+
+#: instant-images.php:347
+msgid "Popular"
+msgstr ""
+
+#: instant-images.php:348
+msgid "Filters"
+msgstr ""
+
+#: instant-images.php:349
+msgid "Views"
+msgstr ""
+
+#: instant-images.php:350
+msgid "Downloads"
+msgstr ""
+
+#: instant-images.php:351
+msgid "Load More Images"
+msgstr ""
+
+#: instant-images.php:352
+msgid "Search for Toronto + Coffee etc..."
+msgstr ""
+
+#: instant-images.php:353
+msgid "Search"
+msgstr ""
+
+#: instant-images.php:354
+msgid "image(s) found for"
+msgstr ""
+
+#: instant-images.php:355
+msgid "Clear Search"
+msgstr ""
+
+#: instant-images.php:356
+msgid "View on"
+msgstr ""
+
+#: instant-images.php:357
+msgid "Set as Featured Image"
+msgstr ""
+
+#: instant-images.php:358
+msgid "Insert Into Post"
+msgstr ""
+
+#: instant-images.php:359
+msgid "Filename"
+msgstr ""
+
+#: instant-images.php:360
+msgid "Title"
+msgstr ""
+
+#: instant-images.php:361
+msgid "Alt Text"
+msgstr ""
+
+#: instant-images.php:362
+msgid "Caption"
+msgstr ""
+
+#: instant-images.php:363
+msgid "Description"
+msgstr ""
+
+#: instant-images.php:364
+msgid "Edit Attachment Details"
+msgstr ""
+
+#: instant-images.php:365
+msgid "Edit Image Details"
+msgstr ""
+
+#: instant-images.php:366
+msgid "Cancel"
+msgstr ""
+
+#: instant-images.php:367
+msgid "Save"
+msgstr ""
+
+#: instant-images.php:368
+msgid "Upload"
+msgstr ""
+
+#: instant-images.php:369
+msgid "Orientation"
+msgstr ""
+
+#: instant-images.php:370
+msgid "Landscape"
+msgstr ""
+
+#: instant-images.php:371
+msgid "Portrait"
+msgstr ""
+
+#: instant-images.php:372
+msgid "Squarish"
+msgstr ""
+
+#: instant-images.php:373
+msgid "Horizontal"
+msgstr ""
+
+#: instant-images.php:374
+msgid "Vertical"
+msgstr ""
+
+#: instant-images.php:375
+msgid "Add Photo Attribution"
+msgstr ""
+
+#: instant-images.php:376
+msgid "Close Window"
+msgstr ""
+
+#: instant-images.php:377
+msgid "Close"
+msgstr ""
+
+#: instant-images.php:378
+msgid "Verify"
+msgstr ""
+
+#: instant-images.php:379
+msgid "Enter API Key"
+msgstr ""
+
+#: instant-images.php:380
+msgid "The API Key is Invalid"
+msgstr ""
+
+#: instant-images.php:381
+msgid "API key has been successfully validated!"
+msgstr ""
+
+#: instant-images.php:382
+msgid "The API key is not valid for this provider - enter a new API Key and try again."
+msgstr ""
+
+#: instant-images.php:383
+msgid "Missing API parameter - we are unable to complete the request at this time."
+msgstr ""
+
+#: instant-images.php:384
+msgid "The Instant Images Proxy is not configured for the requested provider."
+msgstr ""
+
+#: instant-images.php:385
+msgid "An internal server error has occured - please try again."
+msgstr ""
+
+#: instant-images.php:386
+msgid "No image provider or destination URL set."
+msgstr ""
+
+#: instant-images.php:387
+msgid "The API rate limit has been exceeded for this image provider. Please add a new API key or try again later."
+msgstr ""
+
+#: instant-images.php:388
+msgid "Switch the default provider in the Instant Images settings or check that you're using a valid API key."
+msgstr ""
+
+#: instant-images.php:389
+msgid "Get API Key"
+msgstr ""
+
+#: instant-images.php:390
+msgid "Reset Default Key"
+msgstr ""
+
+#: instant-images.php:391
+msgid "An unknown error has occured while accessing {provider}"
+msgstr ""
+
+#: instant-images.php:392
+msgid "Check your API keys are valid and the Default Provider set under the Instant Images settings panel."
+msgstr ""
+
+#: instant-images.php:393
+msgid "Error"
+msgstr ""
+
+#: instant-images.php:394
+msgid "Ad"
+msgstr ""
+
+#: instant-images.php:395
+msgid "Advertisement"
+msgstr ""
+
+#: instant-images.php:403
+msgid "-- Select --"
+msgstr ""
+
+#: instant-images.php:404
+msgid "Order:"
+msgstr ""
+
+#: instant-images.php:405
+msgid "Type:"
+msgstr ""
+
+#: instant-images.php:406
+msgid "Category:"
+msgstr ""
+
+#: instant-images.php:407
+msgid "Colors:"
+msgstr ""
+
+#: instant-images.php:408
+msgid "Orientation:"
+msgstr ""
+
+#: instant-images.php:409
+msgid "Size:"
+msgstr ""
+
+#: instant-images.php:410
+msgid "Extension:"
+msgstr ""
+
+#: instant-images.php:411
+msgid "License Type:"
+msgstr ""
+
+#: instant-images.php:412
+msgid "License:"
+msgstr ""
+
+#: instant-images.php:413
+msgid "Source:"
+msgstr ""
+
+#. translators: Instant Images tagline.
+#: instant-images.php:481
+msgid "One click photo uploads from %1$s, %2$s, %3$s and %4$s."
+msgstr ""
+
+#: src/js/components/cta/Extended.js:46
+#: src/js/components/cta/Extended.js:117
+msgid "Learn More"
+msgstr ""
+
+#: src/js/components/cta/Extended.js:52
+#: src/js/components/cta/Extended.js:54
+#: src/js/components/cta/Extended.js:92
+#: src/js/components/cta/Extended.js:95
+msgid "Dismiss"
+msgstr ""
+
+#: src/js/components/search/SearchHistory.js:34
+msgid "Suggestions"
+msgstr ""
+
+#: src/js/components/search/SearchHistory.js:50
+msgid "Recent Searches"
+msgstr ""
+
+#: src/js/components/search/SearchHistory.js:58
+msgid "Clear"
+msgstr ""
+
+#: src/js/editor/block/components/Header.js:36
+#: src/js/editor/block/components/Header.js:43
+msgid "Select Provider"
+msgstr ""
+
+#: src/js/editor/block/components/Help.js:12
+msgid "Instant Images Help"
+msgstr ""
+
+#: src/js/editor/block/components/Help.js:16
+msgid "Browse photos from the various stock image providers."
+msgstr ""
+
+#: src/js/editor/block/components/Help.js:22
+msgid "Select/click an image to immediately start the upload process."
+msgstr ""
+
+#: src/js/editor/block/components/Help.js:28
+msgid "Uploaded image will be inserted directly into the post using the WordPress core Image block."
+msgstr ""
+
+#: src/js/editor/block/components/Instructions.js:18
+msgid "Scroll to Load Images"
+msgstr ""
+
+#: src/js/editor/block/index.js:60
+msgid "Help"
+msgstr ""
+
+#: src/js/editor/block/block.json
+msgctxt "block title"
+msgid "Instant Images"
+msgstr ""
+
+#: src/js/editor/block/block.json
+msgctxt "block description"
+msgid "One click photo uploads from Unsplash, Openverse, Pixabay and Pexels."
+msgstr ""
+
+#: src/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "image"
+msgstr ""
+
+#: src/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "instant images"
+msgstr ""
+
+#: src/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "photo"
+msgstr ""
+
+#: src/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "stock photos"
+msgstr ""
+
+#: src/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "Unsplash"
+msgstr ""
+
+#: src/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "Openverse"
+msgstr ""
+
+#: src/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "Pixabay"
+msgstr ""
+
+#: src/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "Pexels"
+msgstr ""

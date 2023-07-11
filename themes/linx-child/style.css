@@ -1,0 +1,22 @@
+/*
+ Theme Name:   Linx Child
+ Description:  Linx Child Theme
+ Author:       davidcrochunter@gmail.com
+ Template:     linx
+ Version:      1.0
+*/
+
+/* Theme customization starts here
+-------------------------------------------------------------- */
+
+/**
+ * Load More Button on Course Page
+ */
+.infinite-scroll-course-action {
+    display: flex;
+    justify-content: center;
+}
+.infinite-scroll-course-button {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}

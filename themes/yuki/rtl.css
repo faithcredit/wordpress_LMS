@@ -1,0 +1,110 @@
+/**
+Theme Name: Yuki
+
+Adding support for languages written in a Right To Left (RTL) direction is easy,
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+*/
+
+/* Reset */
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+/* Accessibility */
+.screen-reader-text:focus {
+    left: auto;
+    right: 5px;
+}
+
+/* Text align */
+.text-left {
+    text-align: right;
+}
+
+.text-right {
+    text-align: left;
+}
+
+/* Float */
+.float-right {
+    float: left;
+}
+
+.float-left {
+    float: right;
+}
+
+/* Wordpress alignment */
+.alignleft {
+    float: right;
+    margin-left: 24px;
+    margin-right: 0;
+}
+
+.alignright {
+    float: left;
+    margin-right: 24px;
+    margin-left: 0;
+}
+
+.yuki-page-builder-row.yuki-page-builder-stretch-row,
+.yuki-no-sidebar .prose .alignfull {
+    margin-left: auto !important;
+    margin-right: calc(50% - 50vw) !important;
+}
+
+/* Generic builder */
+.yuki-builder-column-desktop-dir-row > [data-builder-element],
+.yuki-builder-column-tablet-dir-row > [data-builder-element],
+.yuki-builder-column-mobile-dir-row > [data-builder-element] {
+    margin-right: unset;
+    margin-left: var(--yuki-builder-elements-gap, 12px);
+}
+
+.yuki-builder-column-desktop-dir-row > [data-builder-element]:last-of-type,
+.yuki-builder-column-tablet-dir-row > [data-builder-element]:last-of-type,
+.yuki-builder-column-mobile-dir-row > [data-builder-element]:last-of-type {
+    margin-right: unset;
+    margin-left: 0;
+}
+
+/* Menu Element */
+.yuki-menu.yuki-menu-has-arrow .menu-item-has-children > a > .yuki-menu-icon {
+    margin-left: 0;
+    margin-right: 0.5em;
+}
+
+/* Socials Element */
+.yuki-socials .yuki-social-link {
+    margin-right: unset;
+    margin-left: var(--yuki-social-icons-spacing, 0);
+}
+
+.yuki-socials .yuki-social-link:last-of-type {
+    margin-right: unset;
+    margin-left: 0;
+}
+
+/* Search From */
+.yuki-search-modal-form .search-submit,
+.yuki-widget form.search-form button {
+    right: auto;
+    left: 0;
+}
+
+/* Sidebars */
+@media (min-width: 1024px) {
+    .yuki-right-sidebar .yuki-sidebar {
+        margin-left: auto;
+        margin-right: var(--yuki-sidebar-gap, 0);
+    }
+
+    .yuki-left-sidebar .yuki-sidebar {
+        margin-right: auto;
+        margin-left: var(--yuki-sidebar-gap, 0);
+    }
+}

@@ -1,0 +1,33 @@
+#fs_customizer_support,
+#accordion-section-yuki_header,
+#accordion-section-yuki_global,
+#accordion-section-yuki_archive,
+#accordion-section-custom_css,
+#accordion-section-title_tagline {
+  margin-top: 12px;
+}
+#fs_customizer_support .accordion-section-title,
+#accordion-section-yuki_header .accordion-section-title,
+#accordion-section-yuki_global .accordion-section-title,
+#accordion-section-yuki_archive .accordion-section-title,
+#accordion-section-custom_css .accordion-section-title,
+#accordion-section-title_tagline .accordion-section-title {
+  border-top: 1px solid #dcdcde;
+}
+
+#accordion-section-yuki_single_post .accordion-section-title::before,
+#accordion-section-yuki_pages .accordion-section-title::before,
+#accordion-panel-woocommerce .accordion-section-title::before,
+#accordion-section-yuki_store .accordion-section-title::before {
+  content: "\f474";
+  font-family: dashicons;
+  font-weight: 400;
+  font-style: normal;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  font-size: 12px;
+  margin: 0 8px;
+  color: #a7aaad;
+  transform: scaleX(-1);
+}

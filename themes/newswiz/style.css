@@ -1,0 +1,173 @@
+/*
+Theme Name: Newswiz
+Theme URI: https://themeansar.com/free-themes/newswiz/
+Author: Themeansar
+Author URI: https://themeansar.com
+Description: Newswiz is a fast, clean, modern-looking Best Responsive News Magazine WordPress theme. The theme is fully widgetized, so users can manage the content by using easy to use widgets. Newswiz is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals,personal blogs, newspaper, publishing or review siteand any creative website. Newswiz is SEO friendly, WPML,Gutenberg, translation and RTL ready. Live preview : https://newsup.themeansar.com/newswiz/ and documentation at https://docs.themeansar.com/docs/newsup/
+Version: 0.3
+Requires PHP: 7
+Tested up to: 6.1.1
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: newsup
+Text Domain: newswiz
+Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks
+
+Newswiz WordPress Theme is child theme of Newsup, Copyright 2020 Themeansar
+Newswiz is distributed under the terms of the GNU General Public License v3
+
+Newswiz is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+a:focus {
+    outline: 1px solid;
+}
+
+span.time {
+    margin-left: 5px;
+    padding: 2px 4px;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 35px;
+}
+.mg-headwidget.center .heacent {
+    margin-top: unset !important;
+}
+.mg-headwidget.center .logo-center, .mg-headwidget.center .navbar-header, .mg-headwidget.center .site-branding-text  {
+    float: none;
+    text-align: center;
+}
+
+.mg-headwidget.center .navbar-brand {
+    float: none;
+    display: inline-block;
+    margin: 8px auto 0 auto;
+    font-weight: bold;
+}
+.mg-headwidget.center .heacent {
+    margin-top: 40px;
+    color: #fff;
+}
+.navbar-wp .dropdown-menu.searchinner .btn {
+    border: medium none;
+    border-radius: 0 4px 4px 0;
+    height: 40px;
+    line-height: 25px;
+    padding: 5px 15px;
+}
+.mg-search-box .dropdown-toggle::after {
+	display: none;
+}
+.m-header {
+	display: none;
+}
+.desk-header {
+	display: flex;
+}
+.mobilehomebtn {
+    width: 30px;
+    text-align: center;
+    line-height: 30px;
+    height: 30px;
+}
+.logo-auto {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.mg-blog-post.md{
+	width: 49.8%;
+	float: left;
+	height: 236px;
+}
+.mg-blog-post.md .bottom h4 {
+    font-size: 26px;
+}
+.mb1px {
+	margin-bottom: 1px;
+}
+.mg-blog-post.lg.mins {
+	width: 100%;
+	height: 222.5px;
+	margin-bottom: 30px;
+}
+.mg-blog-post.lg.mins h4.title {
+	font-size: 22px;
+}
+
+/* ============================================= Responsive Part ======================================== */
+
+@media screen and (max-width: 767px) and (min-width: 240px) {
+    .mg-headwidget .navbar-wp .navbar-nav > li> a {
+        position: relative;
+        border-bottom: 1px solid rgba(225,225,225,0.4);
+    }
+}
+
+@media (max-width: 991px) {
+	.navbar-wp .navbar-nav > li> a i {
+    	display: none;
+	}	
+}
+
+@media (min-width: 1200px) {
+    .mg-blog-post.md .bottom h4 {
+        max-height: 65px;
+        overflow: hidden;
+    }
+}
+
+@media (max-width: 991.98px) {
+    #menu-primary li.active.home {
+        display: none;
+    }
+    .m-header {
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .desk-header {
+        display: none;
+    }
+}
+
+@media (max-width: 767px) and (min-width: 576px) {
+    .mg-fea-area .col-md-3 {
+        display: flex;
+    }
+    .mg-fea-area .mg-blog-post.lg.mins {
+        margin: 0 5px 30px 0;
+    }
+    .mg-fea-area .col-md-3.col-sm-6{
+        display: block;
+    }
+}
+@media (min-width: 240px) and (max-width: 576px){
+    .mg-fea-area .mg-blog-post.lg.mins,.mg-fea-area  .mg-posts-sec {
+        margin-bottom:20px;
+    }
+
+    .mg-fea-area .mr-bot60 {
+        margin-bottom: 50px;
+    }
+}
+
+.mg-blog-post-box .mg-header {
+    padding: 20px 20px;
+}
+
+footer .site-description {
+    letter-spacing: 1.2px;
+    margin-bottom: 0;
+}
+
+.mg-headwidget .site-branding-text .text-center {
+    color: #fff;
+    text-align: center;
+}
+.woocommerce div.product div.images .woocommerce-product-gallery__wrapper { 
+    box-shadow: 0 1px 3px rgb(0 0 0 / 15%);
+}

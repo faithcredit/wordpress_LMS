@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Coursemax\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-19 11:02+0000\n"
+"PO-Revision-Date: 2022-03-19 11:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2\n"
+"X-Domain: coursemax"
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:129
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:131
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:140
+msgid "Coursemax Footer Widget"
+msgstr ""
+
+#: functions.php:142
+msgid "Shows Widgets in Footer"
+msgstr ""
+
+#: functions.php:197
+msgctxt "Oxygen font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:291
+msgid "Add Footer Widget"
+msgstr ""
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:53
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. %s: search query.
+#: search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: header.php:35
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:84
+msgid "Toggle navigation"
+msgstr ""
+
+#: footer.php:52
+msgid "Powered By WordPress"
+msgstr ""
+
+#: footer.php:53
+msgid " | "
+msgstr ""
+
+#. Name of the theme
+#: footer.php:54
+msgid "Coursemax"
+msgstr ""
+
+#: single.php:29
+msgid "Previous:"
+msgstr ""
+
+#: single.php:30
+msgid "Next:"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Show Title & Tagline"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Header Section"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer.php:130 inc/customizer.php:327
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:146 inc/customizer.php:343
+msgid "Description"
+msgstr ""
+
+#: inc/customizer.php:165 inc/customizer.php:393
+msgid "Add Background Image"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Banner Height (Enter Numeric Value like 700)"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Course Section "
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "Show course Section"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Only 4 Courses will be shown in Free Version"
+msgstr ""
+
+#: inc/customizer.php:232
+msgid "course Section Title"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "course Section Description"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "All Course Page Button Text"
+msgstr ""
+
+#: inc/customizer.php:279
+msgid "All Course Page Button Link"
+msgstr ""
+
+#: inc/customizer.php:292
+msgid "Call to Action Section"
+msgstr ""
+
+#: inc/customizer.php:312
+msgid "Show CTA Section"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "CTA Button Text"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "CTA Button Link"
+msgstr ""
+
+#: inc/customizer.php:412
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer.php:429
+msgid "Show Blog Section"
+msgstr ""
+
+#: inc/customizer.php:446
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:463
+msgid "Blog Section Description"
+msgstr ""
+
+#: inc/customizer.php:481
+msgid "Select Blog Category"
+msgstr ""
+
+#: inc/customizer.php:495
+msgid "Prefooter Section"
+msgstr ""
+
+#: inc/customizer.php:512
+msgid "Show Prefooter Section"
+msgstr ""
+
+#: inc/customizer.php:513
+msgid "Copyright text can be changed in Premium Version only"
+msgstr ""
+
+#: inc/coursemax-menu.php:372
+msgid "Add a menu"
+msgstr ""
+
+#: inc/customizer-control.php:25
+msgid "Only 3 Latest Blog Posts will be shown from the choosen Category)"
+msgstr ""
+
+#: inc/customizer-control.php:27
+msgid "None"
+msgstr ""
+
+#: inc/customizer-control.php:50
+msgid "Select Category"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Frontpage"
+msgstr ""
+
+#. Name of the template
+msgid "Fullwidth Template"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content.php:45
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:41
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content.php:55 template-parts/content-search.php:42
+msgid "Read More"
+msgstr ""
+
+#: lib/coursemax-tgmp.php:65
+msgid "One Click Demo Import"
+msgstr ""
+
+#: lib/coursemax-tgmp.php:71
+msgid "Flawless Themes Demo Import"
+msgstr ""
+
+#: lib/coursemax-tgmp.php:77
+msgid "LearnPress – WordPress LMS Plugin"
+msgstr ""
+
+#: lib/coursemax-tgmp.php:82
+msgid "LearnPress – Course Review"
+msgstr ""
+
+#: lib/coursemax-tgmp.php:87
+msgid "LearnPress – Prerequisites Courses"
+msgstr ""
+
+#: template-parts/homepage/course-section.php:119
+msgid "Free"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Coursemax is a best education, courses theme best for Education, University, "
+"School, Kindergartens websites.If you’re looking for the right theme for "
+"your school, University, selling courses, LMS Academy is the right theme for "
+"you.There’s also plenty of customization potential, so you can create a site "
+"that reflects your school’s particular ethos,  you can create course "
+"curriculums, quizzes, lesson schedules and more with ease.Coursemax is a "
+"flexible, user-friendly and practical theme for anyone looking to create a "
+"smooth-running educational website."
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://flawlessthemes.com/theme/coursemax-best-online-course-wordpress-"
+"theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "flawlessthemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://flawlessthemes.com/"
+msgstr ""

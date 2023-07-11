@@ -1,0 +1,1322 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LINX\n"
+"POT-Creation-Date: 2018-07-13 23:42+0800\n"
+"PO-Revision-Date: 2018-01-31 16:45+0800\n"
+"Last-Translator: \n"
+"Language-Team: MondoTheme\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_nx:4c,1,2;esc_html__;esc_html_e;"
+"_n_noop:1,2;esc_attr__\n"
+"X-Poedit-SearchPath-0: themes/linx\n"
+"X-Poedit-SearchPath-1: plugins/linx-essentials\n"
+"X-Poedit-SearchPathExcluded-0: themes/linx/node_modules\n"
+"X-Poedit-SearchPathExcluded-1: themes/linx/less\n"
+"X-Poedit-SearchPathExcluded-2: themes/linx/gulpfile.js\n"
+"X-Poedit-SearchPathExcluded-3: themes/linx/package.json\n"
+
+#: plugins/linx-essentials/linx-essentials.php:36
+msgid "Read Later"
+msgstr ""
+
+#: plugins/linx-essentials/linx-essentials.php:40
+msgid "Share"
+msgstr ""
+
+#: plugins/linx-essentials/linx-essentials.php:77
+#: plugins/linx-essentials/widgets/widget_facebook.php:15
+#: plugins/linx-essentials/widgets/widget_facebook.php:47
+msgid "Facebook"
+msgstr ""
+
+#: plugins/linx-essentials/linx-essentials.php:78
+msgid "Twitter"
+msgstr ""
+
+#: plugins/linx-essentials/linx-essentials.php:79
+msgid "Instagram"
+msgstr ""
+
+#: plugins/linx-essentials/linx-essentials.php:80
+msgid "Pinterest"
+msgstr ""
+
+#: plugins/linx-essentials/linx-essentials.php:81
+msgid "Google+"
+msgstr ""
+
+#: plugins/linx-essentials/linx-essentials.php:82
+msgid "LinkedIn"
+msgstr ""
+
+#: plugins/linx-essentials/linx-essentials.php:90
+msgid "Demo 1"
+msgstr ""
+
+#: plugins/linx-essentials/linx-essentials.php:98
+msgid "Demo 2"
+msgstr ""
+
+#: plugins/linx-essentials/linx-essentials.php:106
+msgid "Demo 3"
+msgstr ""
+
+#: plugins/linx-essentials/linx-essentials.php:114
+msgid "Demo 4"
+msgstr ""
+
+#: plugins/linx-essentials/linx-essentials.php:122
+msgid "Demo 5"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_about.php:8
+msgid "LINX: About"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_about.php:9
+msgid "About the author."
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_about.php:15
+#: plugins/linx-essentials/widgets/widget_about.php:58
+msgid "About"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_about.php:67
+#: plugins/linx-essentials/widgets/widget_category.php:52
+#: plugins/linx-essentials/widgets/widget_facebook.php:59
+#: plugins/linx-essentials/widgets/widget_picks.php:74
+#: plugins/linx-essentials/widgets/widget_posts.php:105
+#: plugins/linx-essentials/widgets/widget_promo.php:43
+#: plugins/linx-essentials/widgets/widget_social.php:55
+msgid "Title:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_about.php:72
+msgid "Name:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_about.php:77
+msgid "Profile image:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_about.php:82
+msgid "Autograph image:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_about.php:87
+msgid "Description:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_category.php:8
+msgid "LINX: Categories"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_category.php:9
+msgid "Displays custom categories."
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_category.php:15
+#: plugins/linx-essentials/widgets/widget_category.php:48
+msgid "Categories"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_category.php:31
+#: themes/linx/inc/partials/popular-categories.php:11
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_facebook.php:8
+msgid "LINX: Facebook"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_facebook.php:9
+msgid "Facebook page."
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_facebook.php:63
+msgid "Page URL:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_facebook.php:67
+msgid "Width:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_facebook.php:71
+msgid "Height:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_facebook.php:76
+msgid "Hide cover?"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_facebook.php:80
+msgid "Show facepile?"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_facebook.php:84
+msgid "Show posts?"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_picks.php:8
+msgid "LINX: Picked Posts"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_picks.php:9
+msgid "Hand picked posts."
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_picks.php:15
+#: plugins/linx-essentials/widgets/widget_picks.php:65
+msgid "Picked Posts"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_picks.php:79
+msgid "Post ids (separated by comma):"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_picks.php:84
+msgid "Icon code:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_picks.php:89
+msgid "Icon background:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_picks.php:94
+msgid "Icon color:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_posts.php:8
+msgid "LINX: Posts"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_posts.php:9
+msgid "Displays recent/liked/commented posts."
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_posts.php:15
+#: plugins/linx-essentials/widgets/widget_posts.php:97
+msgid "Posts"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_posts.php:110
+msgid "Query:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_posts.php:119
+msgid "Count:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_posts.php:125
+msgid "Reverse?"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_promo.php:8
+msgid "LINX: Promo"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_promo.php:9
+msgid "Displays a promo box."
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_promo.php:48
+msgid "Image:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_promo.php:53
+msgid "Link:"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_social.php:8
+msgid "LINX: Social Links"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_social.php:9
+msgid "Displays social links."
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_social.php:15
+#: plugins/linx-essentials/widgets/widget_social.php:49
+#: themes/linx/inc/customizer/social-links.php:4
+msgid "Social Links"
+msgstr ""
+
+#: plugins/linx-essentials/widgets/widget_social.php:60
+msgid "Brand color?"
+msgstr ""
+
+#: themes/linx/404.php:6
+msgid "Sorry, this page doesn't exist"
+msgstr ""
+
+#: themes/linx/404.php:8
+msgid ""
+"It may have been removed, or the URL you are using is incorrect. Maybe try a "
+"search?"
+msgstr ""
+
+#: themes/linx/comments.php:13
+#, php-format
+msgctxt "comments title"
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/comments.php:32
+msgid "Comment navigation"
+msgstr ""
+
+#: themes/linx/comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: themes/linx/comments.php:56
+msgid "Name (required)"
+msgstr ""
+
+#: themes/linx/comments.php:60
+msgid "E-mail (required)"
+msgstr ""
+
+#: themes/linx/comments.php:64
+msgid "Website"
+msgstr ""
+
+#: themes/linx/comments.php:70
+msgid "Comment (required)"
+msgstr ""
+
+#: themes/linx/functions.php:26
+msgid "Primary"
+msgstr ""
+
+#: themes/linx/functions.php:58
+msgid "Sidebar"
+msgstr ""
+
+#: themes/linx/functions.php:60
+msgid "Add sidebar widgets here."
+msgstr ""
+
+#: themes/linx/functions.php:67
+msgid "Instagram Footer"
+msgstr ""
+
+#: themes/linx/functions.php:69 themes/linx/functions.php:87
+msgid "Add Instagram widget here."
+msgstr ""
+
+#: themes/linx/functions.php:76
+msgid "Footer"
+msgstr ""
+
+#: themes/linx/functions.php:78
+msgid "Add footer widgets here."
+msgstr ""
+
+#: themes/linx/functions.php:85
+msgid "Instagram Slider"
+msgstr ""
+
+#: themes/linx/functions.php:103
+msgctxt "Google Fonts: on or off"
+msgid "on"
+msgstr ""
+
+#: themes/linx/functions.php:126
+msgid "Click to like this post."
+msgstr ""
+
+#: themes/linx/functions.php:127
+msgid "You have already liked this post. Click again to unlike it."
+msgstr ""
+
+#: themes/linx/functions.php:128 themes/linx/inc/partials/pagination.php:47
+msgid "Load more"
+msgstr ""
+
+#: themes/linx/functions.php:129
+msgid "Loading..."
+msgstr ""
+
+#: themes/linx/inc/customizer/category-boxes.php:4
+msgid "Category Boxes"
+msgstr ""
+
+#: themes/linx/inc/customizer/category-boxes.php:11
+msgid "Choose categories"
+msgstr ""
+
+#: themes/linx/inc/customizer/category-boxes.php:20
+msgid "Random thumbnails"
+msgstr ""
+
+#: themes/linx/inc/customizer/category-boxes.php:28
+msgid "Disable category boxes"
+msgstr ""
+
+#: themes/linx/inc/customizer/color-settings.php:4
+msgid "Color Settings"
+msgstr ""
+
+#: themes/linx/inc/customizer/color-settings.php:11
+msgid "Accent color"
+msgstr ""
+
+#: themes/linx/inc/customizer/color-settings.php:25
+msgid "Body background color"
+msgstr ""
+
+#: themes/linx/inc/customizer/color-settings.php:39
+msgid "Header background color"
+msgstr ""
+
+#: themes/linx/inc/customizer/color-settings.php:53
+msgid "Header border color"
+msgstr ""
+
+#: themes/linx/inc/customizer/featured-content.php:4
+msgid "Featured Content"
+msgstr ""
+
+#: themes/linx/inc/customizer/featured-content.php:11
+#: themes/linx/inc/customizer/hero-section.php:16
+#: themes/linx/inc/customizer/hero-section.php:238
+msgid "Choose a style"
+msgstr ""
+
+#: themes/linx/inc/customizer/featured-content.php:16
+msgid "Big slider"
+msgstr ""
+
+#: themes/linx/inc/customizer/featured-content.php:17
+msgid "Vertical boxes"
+msgstr ""
+
+#: themes/linx/inc/customizer/featured-content.php:18
+msgid "Horizontal boxes"
+msgstr ""
+
+#: themes/linx/inc/customizer/featured-content.php:19
+#: themes/linx/inc/customizer/general-settings.php:94
+#: themes/linx/inc/customizer/general-settings.php:108
+#: themes/linx/inc/customizer/general-settings.php:122
+#: themes/linx/inc/customizer/hero-section.php:23
+#: themes/linx/inc/customizer/hero-section.php:245
+#: themes/linx/inc/metabox.php:63 themes/linx/inc/metabox.php:86
+msgid "None"
+msgstr ""
+
+#: themes/linx/inc/customizer/featured-content.php:26
+msgid "Add background image"
+msgstr ""
+
+#: themes/linx/inc/customizer/featured-content.php:33
+msgid "Add background color"
+msgstr ""
+
+#: themes/linx/inc/customizer/featured-content.php:46
+msgid "Show on category pages"
+msgstr ""
+
+#: themes/linx/inc/customizer/footer-settings.php:4
+msgid "Footer Settings"
+msgstr ""
+
+#: themes/linx/inc/customizer/footer-settings.php:11
+msgid "Copyright text"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:4
+#: themes/linx/inc/metabox.php:8
+msgid "General Settings"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:11
+msgid "Enable dark mode"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:19
+msgid "Main layout"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:24
+msgid "1 column"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:25
+msgid "2 column"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:26
+msgid "3 column"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:27
+msgid "4 column"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:34
+msgid "Disable masonry"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:42
+msgid "Enable social bar"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:50
+msgid "Image crop"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:55
+msgid "Horizontal"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:56
+msgid "Square"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:57
+msgid "Vertical"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:64
+msgid "Use cropped image"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:72
+msgid "Pagination"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:77
+msgid "Navigation"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:78
+msgid "Numeric"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:79
+msgid "Infinite + Button"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:80
+msgid "Infinite + Scroll"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:87
+msgid "Home page sidebar"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:92
+#: themes/linx/inc/customizer/general-settings.php:106
+#: themes/linx/inc/customizer/general-settings.php:120
+msgid "Right"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:93
+#: themes/linx/inc/customizer/general-settings.php:107
+#: themes/linx/inc/customizer/general-settings.php:121
+msgid "Left"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:101
+msgid "Single post/page sidebar"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:115
+msgid "Archive page sidebar"
+msgstr ""
+
+#: themes/linx/inc/customizer/general-settings.php:129
+msgid "Disable recommended plugins notice"
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:4
+msgid "Header & Logo"
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:11
+msgid "Navigation bar style"
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:16 themes/linx/inc/metabox.php:19
+msgid "Sticky"
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:17 themes/linx/inc/metabox.php:20
+msgid "Transparent"
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:18 themes/linx/inc/metabox.php:21
+msgid "Sticky+Transparent"
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:19 themes/linx/inc/metabox.php:22
+msgid "Regular"
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:26
+msgid "Full width navigation bar"
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:34
+msgid "Disable search"
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:42
+msgid "Logo"
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:49
+msgid "Retina logo"
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:50
+msgid ""
+"Choose x2 version of your logo. If the logo is 150x50, the retina logo must "
+"be 300x100."
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:57
+msgid "Contrary logo"
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:58
+msgid ""
+"This logo will be used on Transparent and Sticky+Transparent navigation bars."
+msgstr ""
+
+#: themes/linx/inc/customizer/header-logo.php:65
+msgid "Contrary retina logo"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:4
+msgid "Hero Section"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:9
+msgid "Home Page"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:21
+#: themes/linx/inc/customizer/hero-section.php:243
+msgid "Widescreen area"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:22
+#: themes/linx/inc/customizer/hero-section.php:244
+msgid "Fullscreen area"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:30
+msgid "Add the following content"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:35
+msgid "Image"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:36
+msgid "Gallery"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:68
+#: themes/linx/inc/customizer/hero-section.php:193
+msgid "Heading"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:87
+#: themes/linx/inc/customizer/hero-section.php:197
+msgid "Subheading"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:106
+#: themes/linx/inc/customizer/hero-section.php:201
+msgid "Secondary button text"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:125
+#: themes/linx/inc/customizer/hero-section.php:205
+msgid "Secondary button link"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:144
+#: themes/linx/inc/customizer/hero-section.php:209
+msgid "Primary button text"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:163
+#: themes/linx/inc/customizer/hero-section.php:213
+msgid "Primary button link"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:185
+msgid "slide"
+msgstr ""
+
+#: themes/linx/inc/customizer/hero-section.php:231
+msgid "Single Post/Page"
+msgstr ""
+
+#: themes/linx/inc/customizer/post-settings.php:4
+msgid "Post Settings"
+msgstr ""
+
+#: themes/linx/inc/customizer/post-settings.php:11
+msgid "Make first post full width"
+msgstr ""
+
+#: themes/linx/inc/customizer/post-settings.php:19
+msgid "Disable post tags"
+msgstr ""
+
+#: themes/linx/inc/customizer/post-settings.php:27
+msgid "Disable author box"
+msgstr ""
+
+#: themes/linx/inc/customizer/post-settings.php:35
+msgid "Disable related posts"
+msgstr ""
+
+#: themes/linx/inc/customizer/post-settings.php:43
+msgid "Excerpt length"
+msgstr ""
+
+#: themes/linx/inc/customizer/social-links.php:14
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: themes/linx/inc/extras.php:423 themes/linx/inc/extras.php:432
+msgid "Color"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:15
+msgid "Navbar style"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:25 themes/linx/inc/metabox.php:37
+#: themes/linx/inc/metabox.php:66 themes/linx/inc/metabox.php:89
+msgid "Same as customizer"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:28
+msgid "Sidebar style"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:32
+msgid "No sidebar"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:33
+msgid "Right sidebar"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:34
+msgid "Left sidebar"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:40
+msgid "Make the post style cover?"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:50 themes/linx/inc/metabox.php:73
+msgid "Hero Settings"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:57 themes/linx/inc/metabox.php:80
+msgid "Hero style"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:61 themes/linx/inc/metabox.php:84
+msgid "Wide"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:62 themes/linx/inc/metabox.php:85
+msgid "Full"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:92
+msgid "Hero heading"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:97
+msgid "Hero subheading"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:106
+msgid "Featured Content Settings"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:113
+msgid "Feature this post/page?"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:123
+msgid "Post Format Settings"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:131
+msgid "Video Format"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:135
+msgid "Video embed code"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:143
+msgid "Gallery Format"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:147
+msgid "Gallery images"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:154
+msgid "Audio Format"
+msgstr ""
+
+#: themes/linx/inc/metabox.php:158
+msgid "Audio embed code"
+msgstr ""
+
+#: themes/linx/inc/partials/button.php:2
+msgid "Read More"
+msgstr ""
+
+#: themes/linx/inc/partials/navigation.php:22
+msgid "Previous Post"
+msgstr ""
+
+#: themes/linx/inc/partials/navigation.php:28
+msgid "No Older Post"
+msgstr ""
+
+#: themes/linx/inc/partials/navigation.php:36
+msgid "Next Post"
+msgstr ""
+
+#: themes/linx/inc/partials/navigation.php:42
+msgid "No Newer Post"
+msgstr ""
+
+#: themes/linx/inc/partials/related-posts.php:3
+msgid "You might also like"
+msgstr ""
+
+#: themes/linx/inc/partials/term-bar.php:21
+msgid "Browsing tag"
+msgstr ""
+
+#: themes/linx/inc/partials/term-bar.php:23
+msgid "Posts by"
+msgstr ""
+
+#: themes/linx/inc/partials/term-bar.php:25
+msgid "Search results for"
+msgstr ""
+
+#: themes/linx/inc/template-tags.php:150
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/template-tags.php:156
+#, php-format
+msgid "%s like"
+msgid_plural "%s likes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/template-tags.php:172
+msgid "Pingback:"
+msgstr ""
+
+#: themes/linx/inc/template-tags.php:172 themes/linx/inc/template-tags.php:194
+msgid "Edit"
+msgstr ""
+
+#: themes/linx/inc/template-tags.php:190
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: themes/linx/inc/template-tags.php:210
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:339
+msgid "Install Required Plugins"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Install Plugins"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:345
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:348
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:360
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:372
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:378
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:399
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3304
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:400
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3097
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:402
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:404
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:406
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:407
+msgid "Dismiss this notice"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:408
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:615
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:616
+msgid "Update Required"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:731
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:1038
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:1038
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:1048
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:1048
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2106
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2415
+msgid "Required"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2418
+msgid "Recommended"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2434
+msgid "WordPress Repository"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2437
+msgid "External Source"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2440
+msgid "Pre-Packaged"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2457
+msgid "Not Installed"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2461
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2463
+msgid "Active"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2469
+msgid "Required Update not Available"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2472
+msgid "Requires Update"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2475
+msgid "Update recommended"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2484
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2530
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2534
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2538
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2542
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2624
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2632
+msgid "Installed version:"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2640
+msgid "Minimum required version:"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2652
+msgid "Available version:"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2675
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2689
+msgid "Plugin"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2690
+msgid "Source"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2691
+msgid "Type"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2695
+msgid "Version"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Status"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2745
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2750
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2756
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2828
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2861
+msgid "Install"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2867
+msgid "Update"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2870
+msgid "Activate"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2901
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2903
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2944
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:2946
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3053
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3079
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3303
+msgid "Plugin activation failed."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3647
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3650
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3652
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3656
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3658
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3659
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3661
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3664
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3666
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3667
+msgid "All installations have been completed."
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3669
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3674
+msgid "Show Details"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/class-tgm-plugin-activation.php:3674
+msgid "Hide Details"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/tgmpa.php:7
+msgid "LINX Essentials"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/tgmpa.php:14
+msgid "Kirki"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/tgmpa.php:19
+msgid "Meta Box"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/tgmpa.php:24
+msgid "WP Instagram Widget"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/tgmpa.php:32
+msgid "Contact Form 7"
+msgstr ""
+
+#: themes/linx/inc/tgmpa/tgmpa.php:38
+msgid "One Click Demo Import"
+msgstr ""
+
+#: themes/linx/inc/walker.php:147
+msgid "Add a menu"
+msgstr ""
+
+#: themes/linx/page-explore.php:29
+msgid "View all"
+msgstr ""
+
+#: themes/linx/searchform.php:2
+msgid "Enter keyword..."
+msgstr ""
+
+#: themes/linx/template-parts/content-none.php:2
+msgid "No results found"
+msgstr ""
+
+#: themes/linx/template-parts/content-none.php:4
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
